@@ -2,7 +2,7 @@
 
 [Full Code Notebook](https://github.com/Tyler-Gustafson/NFL_Offense_Analysis/blob/main/final_notebook_nfl_offense_exploratory_analysis.ipynb)
 
-[Full Write Up](https://www.tylerjaygustafson.com/nfl-offense-analysis)
+[Full Write Up](https://www.tylerjaygustafson.com/nosql-bart-algorithms)
 
 
 Tyler Gustafson's Notebook
