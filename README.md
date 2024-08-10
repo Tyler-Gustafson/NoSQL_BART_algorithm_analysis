@@ -5,5 +5,4 @@
 [Full Write Up](https://www.tylerjaygustafson.com/nosql-bart-algorithms)
 
 
-Tyler Gustafson's Notebook
-- Placeholder
+![Image Description](https://github.com/Tyler-Gustafson/NoSQL_BART_algorithm_analysis/blob/main/01_background/title_image2.jpg?raw=true)
